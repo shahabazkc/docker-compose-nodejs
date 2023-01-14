@@ -1,0 +1,90 @@
+{
+        "liveScoreData": [
+        {
+            "resource": "fixtures",
+            "id": 21891,
+            "league_id": 5,
+            "season_id": 525,
+            "stage_id": 1722,
+            "round": "30th Match",
+            "localteam_id": 52,
+            "visitorteam_id": 53,
+            "starting_at": "2021-01-06T08:15:00.000000Z",
+            "type": "T20",
+            "live": true,
+            "status": "2nd Innings",
+            "last_period": null,
+            "note": "Target 184 runs",
+            "venue_id": 9,
+            "toss_won_team_id": 53,
+            "winner_team_id": null,
+            "draw_noresult": null,
+            "first_umpire_id": 194,
+            "second_umpire_id": 118,
+            "tv_umpire_id": 179,
+            "referee_id": 54,
+            "man_of_match_id": null,
+            "man_of_series_id": null,
+            "total_overs_played": 20,
+            "elected": "bowling",
+            "super_over": false,
+            "follow_on": false,
+            "localteam_dl_data": {
+                "score": "100",
+                "overs": "8",
+                "wickets_out": "3"
+            },
+            "visitorteam_dl_data": {
+                "score": null,
+                "overs": null,
+                "wickets_out": null
+            },
+            "rpc_overs": null,
+            "rpc_target": null,
+            "weather_report": []
+        },
+        {
+            "resource": "fixtures",
+            "id": 21890,
+            "league_id": 7,
+            "season_id": 525,
+            "stage_id": 1722,
+            "round": "31th Match",
+            "localteam_id": 2,
+            "visitorteam_id": 3,
+            "starting_at": "2021-01-06T08:15:00.000000Z",
+            "type": "T20",
+            "live": true,
+            "status": "2nd Innings",
+            "last_period": null,
+            "note": "Target 184 runs",
+            "venue_id": 9,
+            "toss_won_team_id": 2,
+            "winner_team_id": null,
+            "draw_noresult": null,
+            "first_umpire_id": 194,
+            "second_umpire_id": 118,
+            "tv_umpire_id": 179,
+            "referee_id": 54,
+            "man_of_match_id": null,
+            "man_of_series_id": null,
+            "total_overs_played": 20,
+            "elected": "bowling",
+            "super_over": false,
+            "follow_on": false,
+            "localteam_dl_data": {
+                "score": null,
+                "overs": null,
+                "wickets_out": null
+            },
+            "visitorteam_dl_data": {
+                "score": "100",
+                "overs": "8",
+                "wickets_out": "3"
+            },
+            "rpc_overs": null,
+            "rpc_target": null,
+            "weather_report": []
+        }
+    ]
+}
